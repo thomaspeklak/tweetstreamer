@@ -25,4 +25,10 @@ For now there are no options for Tweetstreamer just type in `coffee streamer.cof
 ##Links
 Links should be click able in your favourite console. iTerm uses `Command-Click`, Ubunutu Terminal uses `CTRL-Click`.
 
-
+##What to expect in future releases
+- favourites: 
+  - add and remove users from your favourites
+  - highlight tweets from your favourites
+  - display last tweets from your favourites
+- confguration option to display time stamp
+- reply to tweet
