@@ -4,9 +4,10 @@ Tweetstreamer lets you view your Twitter stream from a console.
 
 ##Configuration
 To be able to use it you have to generate a config.coffee with your user name and password in the same folder as the streamer.coffee file with the following format:
+
     exports.config =
-      username : 'USERNAME'
-      password : 'PASSWORD'
+        username : 'USERNAME'
+        password : 'PASSWORD'
 
 You can use the file config.coffee.default as a template.
 
