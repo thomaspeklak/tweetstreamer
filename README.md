@@ -2,6 +2,15 @@
 
 Tweetstreamer lets you view your Twitter stream from a console. 
 
+##Status
+This is a working prototype. Do not expect to much.
+
+##Dependencies
+- [nodejs](http://nodejs.org)
+- [coffeescript](http://jashkenas.github.com/coffee-script/)
+- [npm](http://npmjs.org)
+- twitter-node: `npm install twitter-node`
+
 ##Configuration
 To be able to use it you have to generate a config.coffee with your user name and password in the same folder as the streamer.coffee file with the following format:
 
